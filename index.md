@@ -1,3 +1,50 @@
+# 2019 Game Writers Survey
+
+Welcome! The 2019 Game Writers Survey asked how writers in the game industry were being paid, treated, and what they'd like to do about it. 
+
+Table of contents markdown
+
+What is it
+
+
+
+Main Findings
+
+
+Other things of note
+
+
+Why?
+
+
+Methodology
+
+
+Table of contents markdown
+
+Can I use the data for my research?
+
+
+
+Credits
+
+What is GWU?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/westrepo/GameWritersSurvey2019.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
