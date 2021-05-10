@@ -1,6 +1,7 @@
 # 2019 Game Writers Survey
 
-Welcome! The 2019 Game Writers Survey asked how writers in the game industry were being paid, treated, and what they'd like to do about it. 
+The 2019 Game Writers Survey was created by writers and labor activists in the game idustry. Our maain goal was to better understand what things we all shared in common and how this knowledge can be used to improve working conditions for us
+
 
 Table of contents markdown
 
@@ -14,6 +15,8 @@ Main Findings
 Other things of note
 
 
+Other Game Dev Salary Surveys
+
 Why?
 
 
@@ -26,7 +29,7 @@ Can I use the data for my research?
 
 
 
-Credits
+Who Made It
 
 What is GWU?
 
